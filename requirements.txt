@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pillow
+pandas
+opencv-python
+numpy
+pillow
+pandas
